@@ -1,5 +1,5 @@
 # CSC1008_DSA_Project
-SG JourneyPlanner is an application that assist our users in finding the most effective way to travel from point A to point B. In this application, we cover the whole Singapore area. We also include algorithms like hashing, dijsktra and mergesort, to complete our assignment. As for structures, we used 
+SG JourneyPlanner is an application that assist our users in finding the most effective way to travel from point A to point B using only bus routes. In this application, we cover the whole Singapore area. 
 
 ## Algorithms used:
 1. Hashing Algorithm
